@@ -44,11 +44,10 @@ header{
 }
 
 nav a{
-    color:#C0C0C0;
+    color:silver;
     text-decoration:none;
-    margin-left:25px;
+    margin-left:20px;
     font-weight:500;
-    letter-spacing:1px;
     transition:0.3s;
 }
 
