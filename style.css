@@ -44,9 +44,17 @@ header{
 }
 
 nav a{
-    color:#d8d8d8;
+    color:#C0C0C0;
     text-decoration:none;
-    margin-left:20px;
+    margin-left:25px;
+    font-weight:500;
+    letter-spacing:1px;
+    transition:0.3s;
+}
+
+nav a:hover{
+    color:white;
+    text-shadow:0 0 8px rgba(255,255,255,.4);
 }
 
 .hero{
