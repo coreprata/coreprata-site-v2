@@ -34,13 +34,15 @@ header{
     display:flex;
     justify-content:space-between;
     align-items:center;
-    padding:20px 8%;
+    padding:10px 8%;
+    border-bottom:1px solid rgba(255,255,255,0.08);
 }
 
 .logo{
-    width:180px;
-    filter: drop-shadow(0 0 10px rgba(255,255,255,.15));
-}
+    width:280px;
+    max-width:100%;
+    height:auto;
+    display:block;
 }
 
 nav a{
